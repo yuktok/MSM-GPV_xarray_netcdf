@@ -30,7 +30,8 @@ MSMの解答プログラム　wgrib2 と xarrayを利用します。
 
 ## step2
 - xarrayを使うためのライブラリをインストールする
-- ここは後でpytorchを動かす環境と同一にすることを推奨します
+- ここは後でpytorchを動かす環境をまず作った上で、その仮想環境を複製したものにインストールすることを推奨します
+    - *注意* pytorchのバージョンはdocumentationを良く読んで、自分の環境に合ったものを選んでください
 - requirements.txtを利用しても良いです。
     - requirements.txtを利用したパッケージのインストールは以下を参照
     - https://note.nkmk.me/python-pip-install-requirements/

@@ -132,9 +132,6 @@ tinycss2==1.2.1
 toml==0.10.2
 tomli==2.0.1
 toolz==0.12.0
-torch==1.13.1+cu117
-torchaudio==0.13.1
-torchvision==0.14.1
 tornado==6.2
 traitlets==5.9.0
 typing_extensions==4.4.0
